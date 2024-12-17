@@ -1,0 +1,93 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: orange;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: darkred;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    background: lightgrey;
+    margin: 15px 0;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+
+.prodotto {
+    display: flex;
+    align-items: center;
+}
+
+.prodotto img {
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.info {
+    max-width: 60%;
+}
+
+.info h3 {
+    margin: 0 0 10px 0;
+}
+
+.info p {
+    margin: 5px 0;
+}
+
+form {
+    display: inline;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkred;
+}
+
+footer {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.logo-copyright {
+    width: 40px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
