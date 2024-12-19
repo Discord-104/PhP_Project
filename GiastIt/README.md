@@ -81,7 +81,7 @@ This project is a **PHP application** that allows users to order food online, in
 
 ## 🙌 Credits  
 
-Project developed by **Guido Ramella** for **practicing and learning PHP**.  
+Project developed by **OraOtak** for **practicing and learning PHP**.  
 
 ---
 
