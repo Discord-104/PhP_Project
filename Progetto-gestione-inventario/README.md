@@ -96,4 +96,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 Thank you for checking out the **Pixel Market Project**! We hope it helps you with validating forms on your web applications. If you encounter any issues or have questions, feel free to reach out. 😊
-```
