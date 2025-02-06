@@ -1,0 +1,32 @@
+Numeri di carte di credito validi per il test:
+Visa:
+
+4111 1111 1111 1111
+4012 8888 8888 1881
+MasterCard:
+
+5555 5555 5555 4444
+5105 1051 0510 5100
+American Express:
+
+3782 822463 10005
+3714 496353 98431
+Discover:
+
+6011 1111 1111 1117
+6011 0009 9013 9424
+JCB:
+
+3530 1113 3330 0000
+3566 0020 2036 0505
+CVV validi per il test:
+Per le carte Visa, MasterCard, Discover, e JCB, usa un CVV di 3 cifre, ad esempio:
+
+123, 456, 789
+Per le carte American Express, usa un CVV di 4 cifre, ad esempio:
+
+1234
+Date di scadenza valide:
+Usa una data nel formato MM/YY con un mese valido (01-12) e un anno nel futuro. Ad esempio:
+01/25
+12/26
