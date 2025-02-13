@@ -1,4 +1,3 @@
 # 🚀 PHP PROJECT
 
-Welcome to **PHP PROJECT**, a web-based system for managing students, grades, and subjects. This project provides an interactive interface for both administrators and students to handle academic records efficiently.
-
+This folder contains various personal PHP projects developed to practice and refine web development skills. These projects range from simple applications to more complex systems involving user authentication, database management, and dynamic content generation.
