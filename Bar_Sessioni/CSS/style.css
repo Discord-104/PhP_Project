@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    color: darkslategray;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: lightgoldenrodyellow; 
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid darkslategray; 
+}
+
+h1 {
+    font-size: 2em;
+}
+
+
+section {
+    padding: 20px;
+}
+
+/* Moduli */
+form {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+}
+
+label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+
+input[type="submit"] {
+    background-color: darkslategray;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover {
+    background-color: slategray;
+}
+
+
+a {
+    color: darkslategray; 
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+footer {
+    text-align: center; 
+    padding: 10px 0;
+    background-color: lightgoldenrodyellow;
+    border-top: 2px solid darkslategray; 
+}
